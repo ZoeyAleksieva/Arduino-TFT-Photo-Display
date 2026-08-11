@@ -90,8 +90,6 @@ Project-specific code includes the welcome screen, startup animation, image list
 
 The demonstration shows the display powering on, running the custom startup animation, and cycling through the stored photographs.
 
-> **Note:** The demo video should be uploaded as the actual `.mov` file. A `.mov.icloud` file is an iCloud placeholder and is not the video itself.
-
 ## Image Slideshow
 
 The images displayed by the project are stored on the SD card as BMP files and referenced by an array in the Arduino program:
