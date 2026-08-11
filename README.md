@@ -86,7 +86,7 @@ Project-specific code includes the welcome screen, startup animation, image list
 
 ## Demo
 
-[▶️ Watch the Demo](media/demo.mov)
+[▶️ Watch the Demo](media/demo.mp4)
 
 The demonstration shows the display powering on, running the custom startup animation, and cycling through the stored photographs.
 
